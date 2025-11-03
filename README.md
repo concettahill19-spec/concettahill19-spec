@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **command line languages like bash and Zsh alongside relearning C#**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
