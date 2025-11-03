@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Concetta Hill</h1>
-<h3 align="center">I'm an IT Support Technician for RGP</h3>
+<h3 align="center">I'm an IT Support Technician!</h3>
 
 - 🌱 I’m currently learning **command line languages like bash and Zsh alongside relearning C#**
 
